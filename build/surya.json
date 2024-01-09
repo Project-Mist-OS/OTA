@@ -1,0 +1,28 @@
+{
+        "response": [
+                {
+                        "maintainer": "Zabuka",
+                        "oem": "Poco",
+                        "device": "Poco X3",
+                        "filename": "Mist-OS-v2.0-Beta-20240108-2035-surya-OFFICIAL-GApps.zip",
+                        "download": "https://sourceforge.net/project/project-mistos/surya/Mist-OS-v2.0-Beta-20240108-2035-surya-OFFICIAL-GApps.zip/download",
+                        "timestamp": 1704745974,
+                        "md5": "cc14072ea8d0838ebf54abc82a3c9a9c",
+                        "sha256": "7101add26102538ca1ffe11ea9b1091ca8db7bcbb75c50bc6c2885ebe3b2e142",
+                        "size": 2417356026,
+                        "version": 2.0,
+                        "buildtype": "Active Development Releases",
+                        "forum": "",
+                        "gapps": "",
+                        "firmware": "",
+                        "modem": "",
+                        "bootloader": "",
+                        "recovery": "",
+                        "paypal": "",
+                        "telegram": "",
+                        "dt": "",
+                        "common-dt": "",
+                        "kernel": ""
+                }
+        ]
+}
