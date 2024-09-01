@@ -1,0 +1,16 @@
+[
+   {
+      "brand": "POCO",
+      "codename": "Surya",
+      "name": "POCO X3",
+      "supported_versions": [
+         {
+            "maintainer_name": "ZABUKA",
+            "maintainer_url": "",
+            "version_code": "14",
+            "version_name": "14",
+            "xda_thread": ""
+         }
+      ]
+   },
+]

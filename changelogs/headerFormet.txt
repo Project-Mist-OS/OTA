@@ -1,0 +1,9 @@
+Device Specific Changelogs:
+Build type: OFFICIAL (Monthly)
+Device: <your device>
+Device maintainer: XYZ
+
+=====================
+24th August,2024
+=====================
+
